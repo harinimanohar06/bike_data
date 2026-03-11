@@ -23,3 +23,14 @@ The notebook implements a robust cleaning pipeline to prepare the raw data for a
 - **Dynamic Search & Plot Function**: A custom Python function that allows users to:
   1. Search for specific items in any column (e.g., searching for a specific 'Country' or 'Product').
   2. Automatically generate a bar chart showing the **Total Revenue by Product** for that specific search criteria.
+
+   ---
+  ##Overview
+  <img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/0d70c0fe-1e47-444e-b225-1f7a712d2f42" />
+  <img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/61ca79ae-1ede-4f47-a337-fe95be3f50f5" />
+  <img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/c213d8b5-2103-4f25-b144-dfe761d9b438" />
+  <img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/3d601a1b-4d02-4b63-b60e-3af1d578ce31" />
+
+
+
+  
